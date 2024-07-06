@@ -116,6 +116,7 @@ figure{
 @media (max-width: 1000px) {
   .home-box {
     flex-direction: column;
+    align-items: center;
   }
 }
 
