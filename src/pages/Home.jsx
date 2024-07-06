@@ -13,7 +13,7 @@ const Home = () => {
                     <div className="ibox has-background-dark has-text-white">
                         Bienvenido!
                         <br />
-                        Porfavor elige el idioma!
+                        Por favor elige el idioma!
                     </div>
                     <div className="ibox has-background-dark has-text-white">
                         Welcome!
