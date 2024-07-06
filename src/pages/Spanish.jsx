@@ -31,7 +31,7 @@ const Spanish = () => {
                         </div>
                         <div className="card-content">
                             <div className="media-content">
-                                <p className="title is-4">Santiago Ovalle</p>
+                                <h5>Santiago Ovalle</h5>
                             </div>
                             <div className="content">
                                 <p className="subtitle is-6">Desarrollador Fullstack Javascript</p>
@@ -95,8 +95,7 @@ const Spanish = () => {
                             <div className="media-content">
                             <div className="content">
                                 <p>
-                                <strong>Freshprep</strong> 
-                                <br />
+                                <h6>Freshprep</h6>
                                 <small>Julio 2022 - Marzo 2023</small>
                                 <br />
                                 Order Picker Support
