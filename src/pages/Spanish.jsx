@@ -31,7 +31,7 @@ const Spanish = () => {
                         </div>
                         <div className="card-content">
                             <div className="media-content">
-                                <h5>Santiago Ovalle</h5>
+                                <h5 className="title is-4">Santiago Ovalle</h5>
                             </div>
                             <div className="content">
                                 <p className="subtitle is-6">Desarrollador Fullstack Javascript</p>
