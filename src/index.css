@@ -219,6 +219,13 @@ figure{
   padding: 10px;
 }
 
+@media (max-width: 576px) {
+  .contactinfo.show {
+    max-height: 200px;
+    padding: 0;
+  }
+}
+
 #burger{
   color: #f3f7ff;
   background-color: #69748c;
