@@ -103,8 +103,7 @@ const Spanish = () => {
                             </div>
                             <div className="content">
                                 <p>
-                                <strong>BC Housing</strong> 
-                                <br />
+                                <h6>BC Housing</h6>
                                 <small>Abril 2022 - Junio 2022</small>
                                 <br />
                                 Asistente de Recursos Humanos
@@ -112,8 +111,7 @@ const Spanish = () => {
                             </div>
                             <div className="content">
                                 <p>
-                                <strong>Amazon Logistics</strong>
-                                <br />
+                                <h6>Amazon Logistics</h6>
                                 <small>Junio 2021 - Marzo 2022</small>
                                 <br />
                                 Ambasador
